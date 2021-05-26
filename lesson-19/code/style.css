@@ -29,3 +29,7 @@ p {
   height: 600px;
   float: left;
 }
+
+.toggler.active {
+  background-color: blue;
+}
